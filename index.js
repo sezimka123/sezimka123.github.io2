@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./App.css";
+import "./style.css";
 // import "bootstrap/dist/css/bootstrap.css";
 import "bootswatch/journal/bootstrap.css";
 
